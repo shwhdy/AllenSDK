@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.16.2] = xxxx-x-xx
+
+### Added
+ - https://github.com/AllenInstitute/AllenSDK/issues/549 Transforms for tissuecyte registration accessible from allensdk
+
+### Bug Fixes
+ - https://github.com/AllenInstitute/AllenSDK/issues/523 pip no longer fails on new conda environment because of tables
+
 ## [0.16.1] = 2019-3-12
 
 ### Added
